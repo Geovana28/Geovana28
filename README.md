@@ -61,10 +61,8 @@ Bacharelanda em **Ciência da Computação** e Desenvolvedora **Full Stack** na 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Geovana28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovana28&layout=compact&langs_count=6&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geovana28&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
 ---
 
 ### 📫 Conecte-se Comigo

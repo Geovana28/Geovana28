@@ -3,7 +3,7 @@
 **Bacharelanda em Ciência da Computação** e **Desenvolvedora Full Stack & AI Engineer** na Secretaria de Estado de Justiça e Segurança Pública de Minas Gerais (**SEJUSP-MG**).  
 Desenvolvo e operacionalizo sistemas de **Inteligência Artificial (LLMs, RAG, Agentes com Tool Calling)**, pipelines de **Engenharia de Dados na Nuvem (GCP BigQuery)** e aplicações completas com validação estatística rigorosa e testes automatizados.
 
-🌐 **Portfólio Interativo (17 Projetos com Live Demo):** [**geovana28.github.io**](https://geovana28.github.io)
+🌐 **Portfólio Interativo (19 Projetos com Live Demo):** [**geovana28.github.io**](https://geovana28.github.io)
 
 ---
 

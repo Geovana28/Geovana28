@@ -1,7 +1,6 @@
 # Olá, eu sou a Geovana Morais! 👋
 
-**Bacharelanda em Ciência da Computação** e **Desenvolvedora Full Stack & AI Engineer** na Secretaria de Estado de Justiça e Segurança Pública de Minas Gerais (**SEJUSP-MG**).  
-Desenvolvo e operacionalizo sistemas de **Inteligência Artificial (LLMs, RAG, Agentes com Tool Calling)**, pipelines de **Engenharia de Dados na Nuvem (GCP BigQuery)** e aplicações completas com validação estatística rigorosa e testes automatizados.
+**Desenvolvedora Full Stack** & Graduanda em Ciência da Computação em transição ativa para Engenharia de IA & Dados. Uno experiência prática de software em produção na SEJUSP-MG à construção de soluções de Inteligência Artificial (LLMs, RAG & Agentes com Tool Calling), arquitetura de dados no Google Cloud (BigQuery) e engenharia com validação estatística e testes automatizados.
 
 🌐 **Portfólio Interativo (19 Projetos com Live Demo):** [**geovana28.github.io**](https://geovana28.github.io)
 
